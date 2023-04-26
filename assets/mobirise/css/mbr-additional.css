@@ -1044,6 +1044,9 @@ a {
     left: -1rem;
   }
 }
+.cid-tCg7CgRNrT {
+  background-color: transparent;
+}
 .cid-tCg7CgRNrT .mbr-fallback-image.disabled {
   display: none;
 }
@@ -1055,7 +1058,6 @@ a {
   height: 100%;
   position: absolute;
   top: 0;
-  background-image: url("../../../assets/images/mbr-1920x1281.webp");
 }
 .cid-tCg7CgRNrT .mbr-section-title {
   text-align: center;
